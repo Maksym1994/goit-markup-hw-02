@@ -1,0 +1,69 @@
+:root {
+  --primary-text-color: #212121;
+  --text-color: #757575;
+  --accent-test-color: #2196f3;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+}
+
+ul {
+  list-style: none;
+}
+
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.14;
+  color: var(--primary-text-color);
+  text-decoration: none;
+}
+
+.logo:hover,
+.logo:focus {
+  color: var(--accent-test-color);
+}
+
+.logo span {
+  color: var(--accent-test-color);
+}
+
+.link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.site-nav .link {
+  color: var(--primary-text-color);
+}
+
+.panel-info .link {
+  color: var(--text-color);
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accent-test-color);
+}
+
+.page-footer {
+  background-color: #2f303a;
+}
+
+.page-footer address {
+  font-size: 14px;
+  line-height: 1.71;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.page-footer .text {
+  color: #ffffff;
+}

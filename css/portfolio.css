@@ -1,0 +1,22 @@
+.page-nav .button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+  text-align: center;
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.projects-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+
+.projects-text {
+  font-size: 16px;
+  line-height: 1.87;
+  color: #757575;
+}

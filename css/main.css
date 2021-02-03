@@ -1,0 +1,52 @@
+.hero {
+  background: #2f303a;
+}
+
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #212121;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  text-transform: uppercase;
+  list-style: none;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.features .text {
+  font-size: 14px;
+  line-height: 24px;
+  color: #757575;
+}
+
+.team-list {
+  font-size: 16px;
+  line-height: 1.19;
+}
+
+.team-list .title {
+  font-weight: 500;
+}
+
+.team-list .text {
+  color: #757575;
+}
